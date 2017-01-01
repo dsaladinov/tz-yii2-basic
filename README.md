@@ -1,6 +1,7 @@
 Тестовое задание по yii2-basic - новостной сайт
 Потраченное время на выполнение: 10 дней.
 Салайдин уулу Данияр
+https://employment.kg/resumes/179
 ------------------
 Установка :
 yii migrate --migrationPath=@yii/rbac/migrations/
